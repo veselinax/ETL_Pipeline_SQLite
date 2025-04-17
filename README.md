@@ -12,7 +12,7 @@ This project demonstrates an **ETL (Extract, Transform, Load) pipeline** built u
 - **SQLite**: Database used to store the transformed data.
 - **Pandas**: Data manipulation library for cleaning and transforming the data.
 - **Jupyter Notebook**: Interactive environment to write and execute the pipeline.
-- **Matplotlib**: Used for visualizations .
+- **Matplotlib**: Used for visualizations.
 
 ### Data Cleaning
 The raw data was cleaned to ensure consistency. Duplicates were removed, and missing values were handled appropriately.
