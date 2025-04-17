@@ -28,3 +28,7 @@ venv/
 
 # Ignore the Python package cache
 __pycache__/
+
+# Ignore the data
+desktop.ini
+sales_data.csv
